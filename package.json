@@ -1,0 +1,19 @@
+{
+  "name": "sample_library",
+  "version": "1.0.0",
+  "description": "testing 123",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrian271/test_component_library.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrian271/test_component_library/issues"
+  },
+  "homepage": "https://github.com/adrian271/test_component_library#readme"
+}
